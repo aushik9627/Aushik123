@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #444;
+    color: #fff;
+    line-height: 35px;
+}
+
+h1{
+    margin-top: 150px;
+    text-align: center;
+    font-family: love3;
+    font-size: 80px;
+    letter-spacing: 4.5px;
+    color: #ff5ba5;
+    line-height: 100px;
+}
+
+p{
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 5%;
+}
